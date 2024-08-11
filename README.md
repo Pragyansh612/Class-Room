@@ -1,2 +1,5 @@
 # Class-Room
- This a classroom website where there is one Principle who can create,edit and delete teachers and students account.Teachers can create,edit and delete students account.Students can see their classmates in their classoom. Frontend powered by React.js,Backend is made by node.js and for database we have used MongoDB.
+ This is a classroom website where one Principal can create, edit, and delete teachers' and students' accounts. Teachers can create, edit, and delete students' accounts. Students can see their classmates in their classroom. Node.js makes the frontend powered by React.js, the Backend, and we have used MongoDB for the database.
+To initialize it, run these commands - 
+npm run dev
+npn run start
